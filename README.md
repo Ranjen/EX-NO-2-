@@ -406,5 +406,6 @@ return 0;
  ```
 
 Output:
-![Uploading image.png…]()
+<img width="779" height="497" alt="image" src="https://github.com/user-attachments/assets/41374fd7-8f12-481e-8983-896c2382ab7a" />
+
 
